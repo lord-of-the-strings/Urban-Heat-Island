@@ -121,8 +121,7 @@ Trigger the cloud-masked Earth Engine ingestion pipeline to download raw bands i
 python download.py
 
 ```
-
-The data has already been downloaded and cleaned for you, so no need to run this script.
+You need to setup gee and calibrate project settings in this script to run it.
 
 ### 2. Compute Calibration Matrices
 
